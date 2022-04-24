@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0 (Python 3.10.3 on win32)" generated="20220406 16:39:55.774" rpa="false" schemaversion="3">
+<suite id="s1" name="Post" source="C:\Users\pedro.dias\desktop\cursos\qaninja_apiexpert\buger-eats-partner-api-tests\post.robot">
+<test id="s1-t1" name="Should create a new partner" line="7">
+<kw name="Log" library="BuiltIn">
+<arg>Testando a suíte e o caso de teste</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20220406 16:39:55.795" level="INFO">Testando a suíte e o caso de teste</msg>
+<status status="PASS" starttime="20220406 16:39:55.795" endtime="20220406 16:39:55.795"/>
+</kw>
+<status status="PASS" starttime="20220406 16:39:55.795" endtime="20220406 16:39:55.796"/>
+</test>
+<doc>POST /partners</doc>
+<status status="PASS" starttime="20220406 16:39:55.775" endtime="20220406 16:39:55.797"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Post">Post</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
